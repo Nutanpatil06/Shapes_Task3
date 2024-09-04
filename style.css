@@ -1,0 +1,45 @@
+.square{
+    background-color: blueviolet;
+    height: 15rem;
+    width: 15rem;
+}
+
+.rectangle{
+    margin-top: 2rem;
+    background-color: salmon;
+    height: 15rem;
+    width: 25rem;
+}
+
+.circle{
+    margin-top: 2rem;
+    background-color: seagreen;
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+}
+
+.oval{
+    margin-top: 2rem;
+    background-color:rgb(188, 158, 82);
+    height: 15rem;
+    width: 25rem;
+    border-radius: 50%;
+}
+
+.triangle{
+    margin-top: 2rem;
+    height: 0rem;
+    width: 0rem;
+    border-left: 12rem solid transparent;
+    border-right: 12rem solid transparent;
+    border-bottom: 18rem solid rgb(170, 46, 170);
+}
+
+.trapezoid{
+    margin-top: 2rem;
+    border-left:8rem solid transparent;
+    border-right:8rem solid transparent;
+    border-bottom: 10rem solid royalblue;
+    width: 12rem;
+}
